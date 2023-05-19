@@ -5,3 +5,6 @@ The UI will prompt the user with some questions regarding the password. Provided
 ![image](https://github.com/hineeraja/Password-Generator/assets/131307159/2ffe62f1-2ea5-4198-ba77-4b014a20eb8d)
 Once the user answers all the questions a password is generated as shown below
 ![image](https://github.com/hineeraja/Password-Generator/assets/131307159/4f46349c-5745-46a5-87f1-1dd2642151ee)
+https://github.com/hineeraja/Password-Generator : Link to Github repository
+https://hineeraja.github.io/Password-Generator/ : Link to the deployed site
+
